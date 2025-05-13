@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # 🌤️ Health Weather Advisor
 
 This is a full-stack application that combines medical data extraction and weather-based health risk assessment using Google Document AI and Retrieval-Augmented Generation (RAG) with Gemini/GCP Vertex AI.
@@ -23,7 +25,3 @@ This is a full-stack application that combines medical data extraction and weath
 <img width="1067" alt="Screenshot 2025-05-25 at 18 49 27" src="https://github.com/user-attachments/assets/d0c1cbcf-a60e-4fb6-bdc1-fafe7e789289" />
 <img width="974" alt="Screenshot 2025-05-25 at 18 49 50" src="https://github.com/user-attachments/assets/4dcfc98f-25af-40ae-a995-525ab9adc8c3" />
 <img width="1466" alt="Screenshot 2025-05-25 at 18 58 58" src="https://github.com/user-attachments/assets/535d0884-9274-4b42-9346-13e50b76d044" />
-
-
-
-
