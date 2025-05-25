@@ -7,7 +7,7 @@ interface Props {
   setLon: (val: number) => void;
 }
 
-const API_KEY = "1481ce3922d94ee98d1e805d262fd4fe"; // Replace with your OpenCage API key
+const API_KEY = ""; // Replace with your OpenCage API key
 
 export default function LocationForm({ lat, lon, setLat, setLon }: Props) {
   const [loading, setLoading] = useState(false);
