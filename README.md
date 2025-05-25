@@ -21,7 +21,8 @@ This is a full-stack application that combines medical data extraction and weath
 
 <img width="1465" alt="Screenshot 2025-05-25 at 18 48 40" src="https://github.com/user-attachments/assets/a605f608-36c4-4754-a59e-3fb56504bdfe" />
 <img width="974" alt="Screenshot 2025-05-25 at 18 49 50" src="https://github.com/user-attachments/assets/4dcfc98f-25af-40ae-a995-525ab9adc8c3" />
-<img width="974" alt="Screenshot 2025-05-25 at 18 49 50" src="https://github.com/user-attachments/assets/f3cb42d4-f7c8-414b-8c65-fb3c093fad65" />
+<img width="1466" alt="Screenshot 2025-05-25 at 18 58 58" src="https://github.com/user-attachments/assets/535d0884-9274-4b42-9346-13e50b76d044" />
+
 
 
 
