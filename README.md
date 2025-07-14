@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # 🌤️ Health Weather Advisor
 
